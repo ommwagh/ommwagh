@@ -1,5 +1,11 @@
-# 👋 Hi, I'm Om
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ommwagh&color=blue" />
+</p>
 
+# 👋 Hi, I'm Om
+## 📊 GitHub Stats
+
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=ommwagh&show_icons=true&theme=tokyonight)
 🎓 MSc Information Systems & Digital Innovation (in progress)  
 🎓 BBA (Hons) – Coventry University (2:1)
 
@@ -79,7 +85,7 @@ I’m now focused on building a career in **Data Analytics / Business Analytics*
 
 ## 📬 Let's Connect
 
-- 💼 LinkedIn 
+- 💼 LinkedIn: [https://www.linkedin.com/in/om-wagh-277a12217/]
 
 ---
 
