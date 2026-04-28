@@ -3,9 +3,7 @@
 </p>
 
 # 👋 Hi, I'm Om
-## 📊 GitHub Stats
 
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=ommwagh&show_icons=true&theme=tokyonight)
 🎓 MSc Information Systems & Digital Innovation (in progress)  
 🎓 BBA (Hons) – Coventry University (2:1)
 
