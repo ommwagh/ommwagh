@@ -68,8 +68,6 @@ I’m now focused on building a career in **Data Analytics / Business Analytics*
 - 🌍 House of Sinha Website  
 - ☕ Fargo Café Website  
 
-(Showcasing real-world business + tech integration)
-
 ---
 
 ## 🎯 Current Focus
@@ -83,7 +81,8 @@ I’m now focused on building a career in **Data Analytics / Business Analytics*
 
 ## 📬 Let's Connect
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/om-wagh-277a12217/]
+- 💼 [LinledIn](https://www.linkedin.com/in/om-wagh-277a12217/)
+
 
 ---
 
